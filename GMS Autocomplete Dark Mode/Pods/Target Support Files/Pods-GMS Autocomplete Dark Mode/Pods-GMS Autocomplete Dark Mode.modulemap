@@ -1,0 +1,6 @@
+framework module Pods_GMS_Autocomplete_Dark_Mode {
+  umbrella header "Pods-GMS Autocomplete Dark Mode-umbrella.h"
+
+  export *
+  module * { export * }
+}
